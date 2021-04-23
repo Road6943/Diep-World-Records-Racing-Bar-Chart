@@ -1,3 +1,5 @@
+https://user-images.githubusercontent.com/33289997/115808778-eec30400-a3b8-11eb-9a39-63afef62ca9a.mp4
+
 The interactive racing bar chart can be found at this link:
 https://public.flourish.studio/visualisation/5922006/
 
